@@ -22,21 +22,20 @@ Welcome to my GitHub! I'm deeply passionate about using **technology to create, 
 ### 1. **AI Chatbot (GUI Based)**  
 A simple AI chatbot built using Python and Tkinter. It responds to basic user messages using simple if-else logic. This project helped me understand how chatbots can interact with users in a basic way.
 
-> [See the chatbot project](https://github.com/raghavsihag-git/ai-data-science-experiments/tree/main/ai-chatbot)
-
+> [See the chatbot project](https://github.com/raghavsihag-git/ai-data-science-experiments/)
 ---
 
 ### 2. **COVID-19 Data Visualization**  
 In this project, I used `Pandas` to analyze COVID-19 data and `Matplotlib` for visualization. I plotted daily cases, analyzed trends, and gained insight into how data visualization works in real-world datasets.
 
-> [See the COVID-19 data visualization](https://github.com/raghavsihag-git/ai-data-science-experiments/tree/main/covid-data-visualization)
+> [See the COVID-19 data visualization](https://github.com/raghavsihag-git/ai-data-science-experiments)
 
 ---
 
 ### 3. **Word Frequency Counter**  
 This Jupyter Notebook takes a paragraph of text and counts the frequency of each word. It helped me get started with text processing and understanding how simple word counting works in Python.
 
-> [See the word frequency counter](https://github.com/raghavsihag-git/ai-data-science-experiments/tree/main/word-frequency-counter)
+> [See the word frequency counter](https://github.com/raghavsihag-git/ai-data-science-experiments/)
 
 ---
 
