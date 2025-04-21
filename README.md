@@ -1,4 +1,4 @@
-# Hi, I'm Raghav Singh!
+# Hi, I'm Raghav Sihag!
 
 Tech Enthusiast | Builder | Innovation-Driven Learner | Design + Code Hybrid
 
@@ -70,4 +70,4 @@ Feel free to explore my projects and follow my learning journey. Feel free to gi
 
 ### Connect with Me:
 - [GitHub](https://github.com/raghavsihag-git)
-- [Email](raghavsihag123@gmail.com)*
+- raghavsihag123@gmail.com
