@@ -27,4 +27,5 @@ Welcome to my GitHub! I'm deeply passionate about using **technology to create, 
 - Data visualization using Python
 
 ## 📬 Let’s connect
-- Email: [your.email@example.com]
+- Email: raghavsihag123@gmail.com
+         iit.raghavsihag@gmail.com
