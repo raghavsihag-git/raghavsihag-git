@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm deeply passionate about using **technology to create, 
 - Interests: AI, Automation, No-code tools, Front-end Dev, Visual Design
 
 ## 📁 Featured Projects
-- [hello-ai-python](https://github.com/yourusername/hello-ai-python): Python starter project that explores simple AI-based logic
-- [event-invite-design](https://github.com/yourusername/event-invite-design): HTML/CSS invitation template designed from scratch
-- [portfolio-school-work](https://github.com/yourusername/portfolio-school-work): A creative archive of my school-based photography, design work, and innovation ideas
+- [hello-ai-python](https://github.com/raghavsihag-git/hello-ai-python): Python starter project that explores simple AI-based logic
+- [event-invite-design](https://github.com/raghavsihag-git/event-invite-design): HTML/CSS invitation template designed from scratch
+- [portfolio-school-work](https://github.com/raghavsihag-git/portfolio-school-work): A creative archive of my school-based photography, design work, and innovation ideas
 
 ## 🌱 Currently Exploring
 - Prompt engineering and AI toolkits
